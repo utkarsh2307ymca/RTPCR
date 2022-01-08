@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-image: linear-gradient(to left, #1f0566, #2b0675, #380783, #450692, #5305a1, #5305a1, #5305a1, #5305a1, #450692, #380783, #2b0675, #1f0566)!important;
+}
+
+.nav-link {
+    color: #ffffff!important;
+    font-weight: 600;
+}
+
+.nav-btn {
+    margin-left: 10px;
+}
+
+.navbar-brand {
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: #dc3545!important;
+}
+
+#hero {
+    background-image: linear-gradient(to left, #1f0566, #2b0675, #380783, #450692, #5305a1, #5305a1, #5305a1, #5305a1, #450692, #380783, #2b0675, #1f0566);
+}
+
+.hero-img {
+    border-radius: 10px;
+}
+
+.test-name {
+    color: rgb(255, 255, 255);
+}
+
+.acha {
+    background-color: rgb(251 251 251);
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.acha-head {
+    color: seagreen;
+}
+.book-btn {
+    margin: auto;
+}
+
+.hr_highlight {
+    margin: 0 auto!important;
+    width: 10%;
+    opacity: 1!important;
+    border-radius: 5px;
+    color: #dc3545;
+}
+
+.acha-1 {
+    color: white;
+}
+
+.nav-book-btn {
+    border-radius: 50px !important;
+}
+
+
+
+@media (max-width:995px) {
+    .acha {
+       margin-top: 20px!important;
+    }
+}
